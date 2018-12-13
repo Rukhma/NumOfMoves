@@ -1,2 +1,2 @@
 # NumOfMoves
-Assembly language code to count number of moves in tower of honai game
+Assembly language code to count number of moves in tower of honai game using mips (MARS)
